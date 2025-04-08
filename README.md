@@ -1,4 +1,4 @@
-# Open-Data-Pathway
+# Experimental Pathway Metaallocator
 
 Contact: @DamianPudlo on Filecoin Slack
 
@@ -92,16 +92,16 @@ To determine whether an applicant is genuinely developing an allocation system r
 2. **Automated Performance Metrics**  
   Metrics such as allocation speed, distribution diversity, and compliance with Fil+ policies can be periodically checked.  
 3. **Ongoing documentation of the progress**  
-  In addition to code development, the GitHub repository should contain documentation of the ongoing development. This should include:  
-  * The hypothesis  
-  * Detailed description of automation used.  
-  * Failures and successes so far.  
-  * Ongoing reporting on the developments, including:
-    * Failures and successes so far.
-    * Documentation of approaches so far
-    * Progress on the OKRs from the application
-    * Milestones achieved so far.  
-  * Duedilligence or other methods of abuse prevention.  
+  In addition to code development, the GitHub repository should contain documentation of the ongoing development. This should include:
+* The hypothesis
+* Detailed description of automation used.
+* Failures and successes so far.
+* Ongoing reporting on the developments, including:
+*  Failures and successes so far.
+*  Documentation of approaches so far
+*  Progress on the OKRs from the application
+*  Milestones achieved so far.
+*  Duedilligence or other methods of abuse prevention.  
 4. **Audit**  
   Every applicant has to submit details of a third party auditor which (upon the successful development of the allocator) will perform code audit that verifies  
     1. Security of the code  
